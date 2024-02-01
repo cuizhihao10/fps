@@ -1,0 +1,4 @@
+repository "FPS@messiczh@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
